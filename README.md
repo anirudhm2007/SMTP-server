@@ -41,4 +41,4 @@ N/A (Backend-only application)
 ## Team Members
 1. Anirudh Madhavan   
 2. Palksh Upadhyay
-3. Jainil Rathwa
+3. Rathwa Jainil
