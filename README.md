@@ -10,7 +10,9 @@ A lightweight SMTP server designed to receive, process, and log incoming email s
 
 ## Hosted URL
 This is a backend SMTP server and cannot be accessed via a web browser. To test the server, send an email to any address at this domain:  
-address@aniirudh.me
+address@aniirudh.me <br>
+address@rjainil.me <br>
+address@palksh.me
 
 ## Features Implemented
 
