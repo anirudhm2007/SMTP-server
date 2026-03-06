@@ -6,7 +6,8 @@ A lightweight SMTP server designed to receive, process, and log incoming email s
 
 ## Screenshots
 <img width="611" height="293" alt="ReadmeAttachment1" src="https://github.com/user-attachments/assets/90cc0974-231d-44fa-9854-1f0a0c863061" />
-<img width="650" height="320" alt="ReadmeAttachment2" src="https://github.com/user-attachments/assets/7b7c52d0-d7d5-4bb1-9d2f-69767157f7a2" />
+<img width="1402" height="346" alt="Screenshot 2026-03-06 at 7 17 13 PM" src="https://github.com/user-attachments/assets/ffef3c51-006f-4409-a057-077b0ab7c8bc" />
+
 
 ## Hosted URL
 This is a backend SMTP server and cannot be accessed via a web browser. To test the server, send an email to any address at this domain:  
