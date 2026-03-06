@@ -47,6 +47,6 @@ N/A (Backend-only application)
 
   
 ## Team Members
-1. Anirudh Madhavan   
-2. Palksh Upadhyay
-3. Jainil Rathwa
+1. Anirudh Madhavan (2025IMT-006) 
+2. Palksh Upadhyay (2025BCS-059)
+3. Jainil Rathwa  (2025BCS-072)
