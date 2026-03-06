@@ -4,8 +4,8 @@ Node.js SMTP (Simple Mail Transfer Protocol) Server
 ## Project Description
 A lightweight SMTP server designed to receive, process, and log incoming email streams. Deployed on AWS EC2 and routed via Cloudflare.
 
-## Objectives
-The objective of this project was to understand and implement the mechanism behind electronic mail transmission. By implementing a custom SMTP server, we learned about DNS servers, Node.js, SMTP ports and using AWS EC2 instances & Cloudflare DNS routing.
+## Objective
+The objective of this project is to understand and implement the mechanism behind electronic mail transmission. By implementing a custom SMTP server, we aim to understand about DNS servers, Node.js, SMTP ports and the usage of AWS EC2 instances & Cloudflare DNS routing.
 
 ## Screenshots
 <img width="611" height="293" alt="ReadmeAttachment1" src="https://github.com/user-attachments/assets/90cc0974-231d-44fa-9854-1f0a0c863061" />
