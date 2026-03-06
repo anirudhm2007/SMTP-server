@@ -14,6 +14,8 @@ address@aniirudh.me <br>
 address@rjainil.me <br>
 address@palksh.me
 
+These are the email addresses of the custom domain names purchased from Namecheap.
+
 ## Features Implemented
 
 ### Frontend
