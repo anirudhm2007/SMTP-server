@@ -42,7 +42,7 @@ N/A (Backend-only application)
 ## Local Setup
 
 - Clone the repository: git clone [https://github.com/anirudhm2007/SMTP-server]
-- Install dependencies: ```npm install smtp-server```
+- Install dependencies: ```npm install```
 - Start the server: ```sudo node index.js```
 
   
